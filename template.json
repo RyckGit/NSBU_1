@@ -9,27 +9,47 @@
             "stat": 0,
             "magic": 0
           },
-          "flight": {
+          "Brawl": {
             "value": "d4",
             "stat": 0,
             "magic": 0
           },
-          "brains": {
+          "Drive": {
             "value": "d4",
             "stat": 0,
             "magic": 0
           },
-          "brawn": {
+          "Hot": {
             "value": "d4",
             "stat": 0,
             "magic": 0
           },
-          "charm": {
+          "Sneak": {
             "value": "d4",
             "stat": 0,
             "magic": 0
           },
-          "grit": {
+          "Wits": {
+            "value": "d4",
+            "stat": 0,
+            "magic": 0
+          },
+          "Stunts": {
+            "value": "d4",
+            "stat": 0,
+            "magic": 0
+          },
+          "Tech": {
+            "value": "d4",
+            "stat": 0,
+            "magic": 0
+          },
+          "Tough": {
+            "value": "d4",
+            "stat": 0,
+            "magic": 0
+          },
+          "Weapons": {
             "value": "d4",
             "stat": 0,
             "magic": 0
